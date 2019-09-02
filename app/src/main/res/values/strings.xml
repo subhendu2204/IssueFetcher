@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IssueFetcher</string>
+    <string name="label_issues_activity">Issues</string>
+    <string name="label_comments_activity">Comments</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="dialog_no_comment">No Comments Found</string>
+    <string name="dialog_ok_btn">OK</string>
+</resources>
